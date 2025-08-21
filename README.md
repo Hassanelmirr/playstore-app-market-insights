@@ -2,7 +2,7 @@
 Exploratory data analysis and visualization of Google Play Store apps. Includes overall market insights, a deep dive into Education apps, and a comparative study against other categories.
 
 ## Project Overview 
-This project analyzes a dataset of over 1 million mobile applications from the Google Play Store.  
+This project analyzes a dataset of over 2 million mobile applications from the Google Play Store.  
 The goal is to extract insights about app popularity, quality, pricing models, and growth trends through Python data analysis and visualization.  
 
 The analysis is structured into three main parts:
