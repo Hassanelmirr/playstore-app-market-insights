@@ -14,7 +14,7 @@ The analysis is structured into three main parts:
 
 ---
 
-# Objectives
+## Objectives
 - Perform ETL (Extract, Transform, Load) to clean and prepare the dataset.  
 - Conduct Exploratory Data Analysis (EDA) and compute descriptive statistics.  
 - Visualize key insights using Matplotlib, Seaborn, and Plotly.  
@@ -23,7 +23,7 @@ The analysis is structured into three main parts:
 
 ---
 
-# Key Questions
+## Key Questions
 - Which categories dominate the Play Store?  
 - Do free apps get more installs than paid apps?  
 - What are the key trends in Education apps?  
@@ -31,7 +31,7 @@ The analysis is structured into three main parts:
 
 ---
 
-# Tools & Libraries
+## Tools & Libraries
 - Python 
 - Pandas → data cleaning & manipulation  
 - Matplotlib / Seaborn / Plotly → visualizations  
@@ -39,7 +39,7 @@ The analysis is structured into three main parts:
 
 ---
 
-# Relevance
+## Relevance
 This project is directly relevant to the Education domain, aligning with the context of **Xpertbot**, an educational application that provides students with learning content and tests.  
 
 ---
