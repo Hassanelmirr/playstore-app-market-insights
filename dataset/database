@@ -1,0 +1,6 @@
+/* The analysis uses the Google Play Store Apps dataset, available on Kaggle:
+https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
+
+Note: The dataset is very large, containing over 2 million observations.
+Due to GitHub file size limitations, the dataset itself is not included in this repository. 
+Users can download it directly from Kaggle to run the notebook. */
