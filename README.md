@@ -1,5 +1,4 @@
-# playstore-app-market-insights
-Exploratory data analysis and visualization of Google Play Store apps. Includes overall market insights, a deep dive into Education apps, and a comparative study against other categories.
+# Education Apps: Market Trends, Monetization, and Growth Opportunities
 
 ## Project Overview 
 This project was completed as part of my internship with Xpertbot. The goal was to analyze the Google Play Store app market, with a special focus on Education apps, in order to extract market insights, understand financing strategies, and provide recommendations for Xpertbot’s own education app.
