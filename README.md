@@ -2,15 +2,9 @@
 Exploratory data analysis and visualization of Google Play Store apps. Includes overall market insights, a deep dive into Education apps, and a comparative study against other categories.
 
 ## Project Overview 
-This project analyzes a dataset of over 2 million mobile applications from the Google Play Store.  
-The goal is to extract insights about app popularity, quality, pricing models, and growth trends through Python data analysis and visualization.  
+This project was completed as part of my internship with Xpertbot. The goal was to analyze the Google Play Store app market, with a special focus on Education apps, in order to extract market insights, understand financing strategies, and provide recommendations for Xpertbot’s own education app.
 
-The analysis is structured into three main parts:
-1. General Overview → Understanding the global Play Store landscape.  
-2. Education Apps Deep Dive → Focusing on apps relevant to Xpertbot’s domain.  
-3. Comparative Analysis → Benchmarking Education apps against other major categories (Games, Productivity, Tools).  
-
-*(Optional Bonus: clustering apps into segments with K-means)*  
+The analysis was conducted using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook, following a data storytelling approach.
 
 ---
 
@@ -23,12 +17,28 @@ The analysis is structured into three main parts:
 
 ---
 
-## Key Questions
-- Which categories dominate the Play Store?  
-- Do free apps get more installs than paid apps?  
-- What are the key trends in Education apps?  
-- How do Education apps compare to other categories like Games and Productivity?  
+## Key Analyses
 
+1. Dataset Cleaning & Preparation
+  -Handling missing values, duplicates, and inconsistent formatting.
+  -Creating derived features (e.g., avg_installs, released_year).
+
+2. Exploratory Data Analysis (EDA)
+  -App categories, free vs paid distribution.
+  -Ratings and installs distribution.
+  -Play Store recommendations.
+
+3. Education Apps Deep Dive
+  -Market size and trends.
+  -Free vs paid education apps.
+  -Monetization models (ads, in-app purchases, hybrid).
+  -Top developers and release trends.
+
+4. Final Comparative Analysis
+  -Free vs Paid performance.
+  -Financing strategy effectiveness (Ads, IAP, Paid, Hybrid).
+  -Benchmarking top education apps (e.g., Duolingo, Photomath, Brainly).
+   
 ---
 
 ## Tools & Libraries
@@ -36,6 +46,16 @@ The analysis is structured into three main parts:
 - Pandas → data cleaning & manipulation  
 - Matplotlib / Seaborn / Plotly → visualizations  
 - Jupyter Notebook → interactive analysis and dashboard  
+
+---
+
+## Key Insights
+
+  - The Play Store is dominated by free apps (97% free vs 3% paid).
+  Education apps are well-rated (avg ~4.2⭐), showing strong demand and satisfaction.
+  - Free + Ads + IAP is the most effective monetization strategy, driving the highest installs.
+  - Paid-only apps underperform in both installs and ratings compared to free apps.
+  - For Xpertbot, launching as a free app with optional IAP (and limited ads) is the most sustainable strategy.
 
 ---
 
