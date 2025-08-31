@@ -1,4 +1,5 @@
 /* The analysis uses the Google Play Store Apps dataset, available on Kaggle:
+
 https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 
 Note: The dataset is very large, containing over 2 million observations.
