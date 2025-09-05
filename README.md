@@ -51,7 +51,7 @@ The analysis was conducted using Python (Pandas, Matplotlib, Seaborn) in Jupyter
 ## Key Insights
 
   - The Play Store is dominated by free apps (97% free vs 3% paid).
-  Education apps are well-rated (avg ~4.2⭐), showing strong demand and satisfaction.
+  Education apps are well-rated (avg ~4.2), showing strong demand and satisfaction.
   - Free + Ads + IAP is the most effective monetization strategy, driving the highest installs.
   - Paid-only apps underperform in both installs and ratings compared to free apps.
   - For Xpertbot, launching as a free app with optional IAP (and limited ads) is the most sustainable strategy.
